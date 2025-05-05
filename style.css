@@ -18,3 +18,21 @@ li {
     border: 2px solid #000000;
     border-radius: 10px;
 }
+
+footer{
+    width: 1500px;
+    text-align: center;
+}
+img{
+    width: 100px;
+    margin-bottom: 100px;
+    position: absolute;
+    top: 500px;
+    left: 730px;
+}
+
+.copyright {
+    position: absolute;
+    top: 600px;
+    left: 660px;
+}
